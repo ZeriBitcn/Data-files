@@ -1,0 +1,312 @@
+Unnamed:_0,Plot,Species,abundence
+1,1,Hydrocotyle ranunculoides L. f,3.0
+2,1,Crassula alsinoides (Hook.f.) Engl.,4.0
+3,1,Oxalis procumbens Steud.ex A. Rich. ,3.0
+4,1,Rytidosperma subulata (A.Rich.) Cope,7.0
+5,2,Erica L.,3.0
+6,2,Phyllanthus oblongiglans M. Gilbert ,1.0
+7,2,Deschampsia flexuosa (L.) ,1.0
+8,2,Rytidosperma subulata (A.Rich.) Cope,7.0
+9,3,Crassula alsinoides (Hook.f.) Engl.,7.0
+10,3,Erica L.,3.0
+11,3,Phyllanthus oblongiglans M. Gilbert ,1.0
+12,3,Hypericum sp,4.0
+13,3,Luzula abyssinica ,1.0
+14,3,Deschampsia flexuosa (L.) ,2.0
+15,3,Rytidosperma subulata (A.Rich.) Cope,3.0
+16,4,Helichrysum ,3.0
+17,4,Commelina africana Roth,4.0
+18,4,Crassula alsinoides (Hook.f.) Engl.,3.0
+19,4,Erica L.,3.0
+20,4,Trifolium burchellianum Ser.,1.0
+21,4,Luzula abyssinica,1.0
+22,4,Thymus serrulatus Hochst. ex Benth.,1.0
+23,4,Oxalis procumbens Steud.ex A. Rich. ,1.0
+24,4,Agrostis quinqueseta (Hochst. ex Steud.),3.0
+25,4,Festuca abyssinica Hochst.,1.0
+26,5,Dianthoseris schimperi Sch.Bip.ex A. Rich.,4.0
+27,5,"Emilia sonchifolia (L.) DC. ex
+Wight",4.0
+28,5,Helichrysum sp.,8.0
+29,5,Arabis alpina L,3.0
+30,5,Herniaria hirsuta L.,4.0
+31,5,Holostemum umbellatum L.,5.0
+32,5,Uebelinia abyssinica Hochst.,3.0
+33,5,Phyllanthus oblongiglans M. Gilbert ,1.0
+34,5,Salvia merjamie Forssk,3.0
+35,5,Plantago afra L.,4.0
+36,5,Parietaria debilis G.Forst.,2.0
+37,6,Taraxacum officinale,3.0
+38,6,Senacoa sp,4.0
+39,6,Herniaria hirsuta L.,3.0
+40,6,Holostemum umbellatum L.,3.0
+41,6,Uebelinia abyssinica Hochst.,3.0
+42,6,Chenopodium sp.,4.0
+43,6,Erica L.,3.0
+44,6,Polygala steudneri Chod.,3.0
+45,7,Helichrysum,5.0
+46,7,Herniaria hirsuta L.,3.0
+47,7,Holostemum umbellatum L.,3.0
+48,7,Erica L.,2.0
+49,8,Artemisia schimperi Sch. Bip. ex Engl.,7.0
+50,8,Arabis alpina L,5.0
+51,8,Herniaria hirsuta L.,4.0
+52,8,Carex erythrorrhiza Bock,4.0
+53,8,Trifolium sp,3.0
+54,9,Taraxacum officinale,3.0
+55,9,Helichrysum,4.0
+56,9,Herniaria hirsuta L.,6.0
+57,9,Herniaria hirsuta L.,4.0
+58,9,Carex erythrorrhiza Bock,6.0
+59,9,Erica L.,2.0
+60,9,Luzula abyssinica,4.0
+61,9,Koeleria capensis (Steud.),5.0
+62,10,Helichrysum,3.0
+63,10,Uebelinia abyssinica Hochst.,5.0
+64,10,Herniaria hirsuta L.,8.0
+65,10,Erica L.,2.0
+66,11,Laggera elatior R.E. Fries,6.0
+67,11,Emilia sonchifolia (L.) DC. Ex Wight,6.0
+68,11,Helichrysum,7.0
+69,11,Herniaria hirsuta L.,4.0
+70,11,Pentaschistis trisetoides (Hochst. ex Steud.) Pilg.,4.0
+71,12,Hydrocotyle ranunculoides L. f,6.0
+72,12,Arabis alpina L,6.0
+73,12,Carex erythrorrhiza Bock,4.0
+74,12,Geranium sp.,3.0
+75,12,Oxalis procumbens Steud.ex A. Rich. ,3.0
+76,12,Digitaria sp.,4.0
+77,12,Pentaschistis trisetoides (Hochst. ex Steud.) Pilg.,8.0
+78,13,Helichrysum,7.0
+79,13,Arabis alpina L,4.0
+80,13,Holostemum umbellatum L.,6.0
+81,13,Erica L.,3.0
+82,14,Taraxacum officinale,4.0
+83,14,Herniaria hirsuta L.,4.0
+84,14,Oxalis procumbens Steud.ex A. Rich. ,3.0
+85,14,Agrostis quinqueseta (Hochst. ex Steud.),7.0
+86,14,Alchemilla abyssinica Fresen.,7.0
+87,15,Holostemum umbellatum L.,8.0
+88,15,Herniaria hirsuta L.,8.0
+89,15,Kalanchoe schimperiana,7.0
+90,15,Phyllanthus oblongiglans M. Gilbert,2.0
+91,15,Agrostis quinqueseta (Hochst. ex Steud.),5.0
+92,15,Pentaschistis borussica,7.0
+93,16,Arabis alpina L,2.0
+94,16,Holostemum umbellatum L.,3.0
+95,16,Grass,6.0
+96,17,Artemisia schimperi Sch. Bip. ex Engl.,7.0
+97,17,Laggera elatior R.E. Fries,3.0
+98,17,Holostemum umbellatum L.,7.0
+99,17,Erica L.,3.0
+100,18,Holostemum umbellatum L.,3.0
+101,18,Chenopodium sp.,4.0
+102,18,Oxalis procumbens Steud.ex A. Rich. ,3.0
+103,19,Cotula abyssinica Sch. Bip. ex A. Rich.,5.0
+104,19,Holostemum umbellatum L.,3.0
+105,19,Festuca abyssinica Hochst.,7.0
+106,21,Arabis alpina L,3.0
+107,21,Digitaria sp.,4.0
+108,21,Festuca abyssinica Hochst.,7.0
+109,22,Herniaria hirsuta L.,8.0
+110,22,Stellaria sennii Chiov.,7.0
+111,22,Festuca abyssinica Hochst.,5.0
+112,22,Polygala steudneri Chod.,8.0
+113,23,Trifolium,6.0
+114,24,Acmella caulirhiza Del.,5.0
+115,24,Artemisia schimperi Sch. Bip. ex Engl.,8.0
+116,24,Holostemum umbellatum L.,7.0
+117,24,Kalanchoe schimperiana,7.0
+118,24,Digitaria sp.,4.0
+119,24,Hedbergia abyssinica (Hochst. ex Benth.),5.0
+120,25,Oxalis procumbens Steud.ex A. Rich. ,3.0
+121,25,Festuca abyssinica Hochst.,9.0
+122,26,Senacoa,7.0
+123,26,Helichrysum,5.0
+124,26,Conyza sp.,4.0
+125,26,Festuca abyssinica Hochst.,7.0
+126,27,Hydrocotyle ranunculoides L. f,8.0
+127,27,Taracsacum officinale,5.0
+128,27,Helichrysum,6.0
+129,27,Conyza sp.,3.0
+130,27,Eleocharis marginulata Hochst.ex Steud,7.0
+131,27,Thymus schimperi,8.0
+132,27,Aristida sp,6.0
+133,27,Festuca abyssinica Hochst.,7.0
+134,27,Alchemilla abyssinica Fresen.,7.0
+135,27,Alchemilla fischeri Engl.,7.0
+136,28,Arabis alpina L,8.0
+137,28,Salvia merjamie Forssk,6.0
+138,28,Thymus schimperi,7.0
+139,28,Plantago lanceolata L. ,3.0
+140,28,Agrostis quinqueseta (Hochst. ex Steud.),9.0
+141,28,Alchemilla abyssinica Fresen.,7.0
+142,29,Hydrocotyle ranunculoides L. f,8.0
+143,29,Helichrysum,3.0
+144,29,Arabis thaliana L.,2.0
+145,29,Cyperus aterrimus Steud.,4.0
+146,29,Swertia crassiuscula Gilg ,3.0
+147,29,Satureja imbricata (Forssk.) Briq.,3.0
+148,29,Festuca abyssinica Hochst.,8.0
+149,29,Agrostis quinqueseta (Hochst. ex Steud.),7.0
+150,29,Alchemilla haumannii Rothm.,4.0
+151,30,Cotula abyssinica Sch. Bip. ex A. Rich.,7.0
+152,30,Helichrysum,7.0
+153,30,Commelina subulata Roth,8.0
+154,30,Erica L.,3.0
+155,30,Swertia crassiuscula Gilg ,3.0
+156,30,Festuca abyssinica Hochst.,8.0
+157,30,Aristida sp,7.0
+158,31,Holostemum umbellatum L.,3.0
+159,31,Commelina subulata Roth,7.0
+160,31,Erica L.,2.0
+161,31,Satureja paradoxa (Vatke),4.0
+162,31,Aristida sp,7.0
+163,31,Festuca abyssinica Hochst.,8.0
+164,31,Pentaschistis trisetoides (Hochst. ex Steud.) Pilg.,9.0
+165,31,Alchemilla abyssinica Fresen.,4.0
+166,32,Hydrocotyle ranunculoides L. f,9.0
+167,32,Helichrysum,5.0
+168,32,Uebelinia abyssinica Hochst.,3.0
+169,32,Chenopodium sp.,3.0
+170,32,Erica L.,2.0
+171,32,Luzula abyssinica,5.0
+172,32,Alchemilla fischeri Engl.,3.0
+173,33,Hydrocotyle ranunculoides L. f,9.0
+174,33,Conyza hochstetteri Sch. Bip. ex A,7.0
+175,33,Helichrysum,7.0
+176,33,Commelina subulata Roth,
+177,33,Thymus schimperi,8.0
+178,33,Satureja imbricata (Forssk.) Briq.,7.0
+179,33,Agrostis quinqueseta (Hochst. ex Steud.),7.0
+180,34,Hydrocotyle ranunculoides L. f,9.0
+181,34,Cotula abyssinica Sch. Bip. ex A. Rich.,8.0
+182,34,Conyza sp.,5.0
+183,34,Erica L.,3.0
+184,34,Trifolium sp.,5.0
+185,34,Satureja paradoxa (Vatke),4.0
+186,34,Agrostis quinqueseta (Hochst. ex Steud.),8.0
+187,34,Aristida sp,4.0
+188,34,Alchemilla pedata A. Rich.,5.0
+189,34,Alchemilla haumannii Rothm.,4.0
+190,35,Hydrocotyle ranunculoides L. f,8.0
+191,35,Cotula abyssinica Sch. Bip. ex A. Rich.,7.0
+192,35,Erica L.,2.0
+193,35,Trifolium acaule A. Rich,3.0
+194,35,Agrostis quinqueseta (Hochst. ex Steud.),7.0
+195,35,Aristida sp,3.0
+196,35,Alchemilla haumannii Rothm.,4.0
+197,36,Hydrocotyle ranunculoides L. f,9.0
+198,36,Conyza sp.,2.0
+199,36,Eleocharis marginulata Hochst.ex Steud,8.0
+200,36,Cyperus pauper Hochst.exA. Rich,2.0
+201,36,Geranium arabicum Forssk.,3.0
+202,36,Thymus schimperi,4.0
+203,36,Oxalis procumbens Steud.ex A. Rich. ,4.0
+204,36,Agrostis quinqueseta (Hochst. ex Steud.),8.0
+205,36,Alchemilla haumannii Rothm.,9.0
+206,36,Trifolium sp.,4.0
+207,37,Holostemum umbellatum L.,3.0
+208,37,Commelina subulata Roth,6.0
+209,37,Erica L.,2.0
+210,37,Romulea congoensis Beg.,7.0
+211,37,Agrostis quinqueseta (Hochst. ex Steud.),8.0
+212,37,Festuca abyssinica Hochst.,4.0
+213,38,Pimpinella oreophila Hook. f.,2.0
+214,38,Commelina subulata Roth,7.0
+215,38,Bulbostylis densa (Wall.) ,3.0
+216,38,Cyperus pauper Hochst.exA. Rich,2.0
+217,38,Erica L.,2.0
+218,38,Trifolium acaule A. Rich,7.0
+219,38,Geranium arabicum Forssk.,2.0
+220,38,Romulea congoensis Beg.,4.0
+221,38,Satureja punctata (Benth.) Briq.,5.0
+222,38,Satureja simensis (Benth.) Briq.,6.0
+223,38,Thymus serrulatus Hochst. ex Benth.,3.0
+224,38,Oxalis procumbens Steud.ex A. Rich. ,7.0
+225,38,Agrostis quinqueseta (Hochst. ex Steud.),8.0
+226,38,Lobelia erlangeriana Engl. ,7.0
+227,39,Cotula abyssinica Sch. Bip. ex A. Rich.,7.0
+228,39,Erica L.,5.0
+229,39,Trifolium burchellianum Ser.,4.0
+230,39,Satureja punctata (Benth.) Briq.,7.0
+231,39,Satureja simensis (Benth.) Briq.,7.0
+232,39,Thymus serrulatus Hochst. ex Benth.,7.0
+233,39,Agrostis quinqueseta (Hochst. ex Steud.),8.0
+234,39,Alchemilla abyssinica Fresen.,7.0
+235,40,Hydrocotyle ranunculoides L. f,8.0
+236,40,Dianthoseris schimperi Sch.Bip.ex A. Rich.,4.0
+237,40,Erica L.,9.0
+238,40,Trifolium burchellianum Ser.,7.0
+239,40,Hypericum sp,8.0
+240,40,Satureja punctata (Benth.) Briq.,8.0
+241,40,Thymus serrulatus Hochst. ex Benth.,7.0
+242,40,Deschampsia flexuosa (L.) ,4.0
+243,40,Rytidosperma subulata (A.Rich.) Cope,4.0
+244,41,Hydrocotyle ranunculoides L. f,7.0
+245,41,Herniaria hirsuta L.,8.0
+246,41,Kalanchoe schimperiana,7.0
+247,41,Polystichum sp.,3.0
+248,41,Erica L.,7.0
+249,41,Trifolium semipilosum Fresen,3.0
+250,41,Satureja punctata (Benth.) Briq.,6.0
+251,41,Thymus serrulatus Hochst. ex Benth.,2.0
+252,41,Oxalis procumbens Steud.ex A. Rich.,3.0
+253,41,Deschampsia flexuosa (L.) ,7.0
+254,42,Hydrocotyle ranunculoides L. f,4.0
+255,42,Erica L.,3.0
+256,42,Trifolium semipilosum Fresen,5.0
+257,42,Oxalis procumbens Steud.ex A. Rich.,6.0
+258,43,Helichrysum sp.,4.0
+259,43,Erica L.,3.0
+260,43,Oxalis procumbens Steud.ex A. Rich.,8.0
+261,43,Pentaschistis trisetoides (Hochst. ex Steud.) Pilg.,4.0
+262,44,Taraxacum officinale,7.0
+263,44,Kalanchoe schimperiana,5.0
+264,44,Polystichum sp.,7.0
+265,44,Erica L.,8.0
+266,44,Trifolium semipilosum Fresen,7.0
+267,44,Satureja punctata (Benth.) Briq.,
+268,45,Kalanchoe schimperiana,8.0
+269,45,Polystichum sp.,4.0
+270,45,Erica L.,5.0
+271,45,Festuca abyssinica Hochst.,8.0
+272,45,Veronica arvensis L.,3.0
+273,46,Helichrysum,3.0
+274,46,Kalanchoe schimperiana A.Rich.,9.0
+275,46,Polystichum sp.,4.0
+276,46,Erica L.,7.0
+277,46,Festuca abyssinica Hochst.,4.0
+278,47,Taraxacum officinale,6.0
+279,47,Helichrysum,5.0
+280,47,Helichrysum sp.,3.0
+281,47,Kalanchoe schimperiana,7.0
+282,47,Polystichum sp.,4.0
+283,47,Erica L.,8.0
+284,47,Digitaria sp.,6.0
+285,47,Festuca abyssinica Hochst.,7.0
+286,47,Galium simense Fresen.,3.0
+287,48,Hydrocotyle ranunculoides L. f,8.0
+288,48,Cotula abyssinica Sch. Bip. ex A. Rich.,7.0
+289,48,Conyza sp.,3.0
+290,48,Kalanchoe schimperiana,7.0
+291,48,Polystichum sp.,4.0
+292,48,Erica L.,5.0
+293,48,Thymus serrulatus Hochst. ex Benth.,5.0
+294,48,Pentaschistis trisetoides (Hochst. ex Steud.) Pilg.,8.0
+295,49,Taracsacum officinale,3.0
+296,49,Cotula abyssinica Sch. Bip. ex A. Rich.,7.0
+297,49,Satureja imbricata (Forssk.) Briq.,5.0
+298,49,Thymus serrulatus Hochst. ex Benth.,3.0
+299,49,Pentaschistis borussica,5.0
+300,49,Aristida sp,8.0
+301,49,Alchemilla abyssinica Fresen.,8.0
+302,50,Taracsacum officinale,8.0
+303,50,Conyza sp.,2.0
+304,50,Erica L.,7.0
+305,50,Trifolium ,3.0
+306,50,Satureja imbricata (Forssk.) Briq.,7.0
+307,50,Pentaschistis borussica,7.0
+308,50,Aristida sp,5.0
+309,50,Alchemilla abyssinica Fresen.,8.0
+310,50,Hedbergia abyssinica (Hochst. ex Benth.),3.0
